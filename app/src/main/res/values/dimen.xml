@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="standardPadding">12dp</dimen>
+    <dimen name="halfPadding">6dp</dimen>
+    <dimen name="bigFont">24sp</dimen>
+    <dimen name="defaultFont">14sp</dimen>
+    <dimen name="imageSize">135dp</dimen>
+</resources>

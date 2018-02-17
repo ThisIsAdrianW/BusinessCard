@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="companyName">Cat Care Company</string>
+    <string name="openHrs">We`re open from 9 to 12\nFrom monday to sunday</string>
+    <string name="webOn">Vist us at\nwww.catsarecool.com</string>
+    <string name="whatWeDo">We take care for\nrandomly generated cats</string>
+    <string name="textLow1">We take care ..</string>
+    <string name="textLow2">...of Your cat ...</string>
+    <string name="textLow3">...big or small ...</string>
+    <string name="textLow4">...We love them all.</string>
+</resources>
